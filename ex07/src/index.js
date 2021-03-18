@@ -3,7 +3,7 @@ function myFunction(property) {
     name: "Simba",
     legs: 4,
     tails: 1,
-    roar: "roar-roar"
+    roar: "roar-roar",
   };
 
   delete lion[property];

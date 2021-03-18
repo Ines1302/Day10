@@ -1,7 +1,7 @@
 var myFood = {
   vegetable: "carrot",
   fruit: "orange",
-  drink: "water"
+  drink: "water",
 };
 
 function myFunction(myObj) {
