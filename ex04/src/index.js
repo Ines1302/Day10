@@ -1,7 +1,7 @@
 var players = {
   7: "Muhamed Basic",
   10: "Miralem Pjanic",
-  11: "Edin Dzeko"
+  11: "Edin Dzeko",
 };
 
 function myFunction(myObj) {
