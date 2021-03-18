@@ -11,6 +11,7 @@ function getUsername(email) {
   username = username[email];
   return username;
 }
+
 getUsername("user1@mail.com");
 getUsername("user2@mail.com");
 getUsername("user3@mail.com");
